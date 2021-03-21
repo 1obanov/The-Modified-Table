@@ -1,7 +1,7 @@
 # The Modified Table
 Please have a look at my small script which I wrote in Vanilla JavaScript which generates table with data from the list of objects. 
 
-#### Live preview --> [The Modified Table](http://modifiedtable.ihorlobanov.info)
+#### Live preview --> [The Modified Table](https://1obanov.github.io/The-Modified-Table/)
 
 ## Some functionality of the script:
 
